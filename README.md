@@ -1,4 +1,4 @@
-#ET-CycleGAN: Emotion-guided Thermal CycleGAN
+# ET-CycleGAN: Emotion-guided Thermal CycleGAN
 
 This code is based on the work of Jun-Yan Zhu et al. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/
 Copyright (c) 2017, Jun-Yan Zhu and Taesung Park
